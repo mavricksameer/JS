@@ -98,10 +98,92 @@
 //arthematic operators
 
 // + ,-, *, % ,**
-let a = "12"
-let b =  12
-let result = a === b
-console.log(result)
+
+// let a = "12"
+// let b =  12
+// let result = a === b
+// console.log(result)
+
+
+//addition
+// use to add the nuumbers
+// let a = 20
+// let b = 30
+// let c = a + b
+// console.log(c);
+
+//subtraction
+//use to subtrac the numbers
+// let a = 20
+// let b = 30
+// let c = a - b
+// console.log(c);
+
+//multipication
+//use to ultiply the numbers
+// let a = 20 
+// let b = 30
+// let c = a * b
+// console.log(c); 
+
+// division
+// use to divide the numbers
+// let a = 40
+// let b = 20 
+// let c = a / b 
+// console.log(c);
+
+//modulus
+// gives remainder of an integer division
+// let a = 24
+// let b = 10
+// let c = a % b
+// console.log(c);
+
+// exponention
+// let a = 20
+// let b = 3
+// let c = a ** b
+// console.log(c);
+
+// logical operator
+// < >
+// let a = 11
+// let b = 12
+// let c = a < b
+// console.log(c);
+
+//==
+//===
+//=
+//  let a = 20
+//  let b = 20
+//  let c = a === b
+//  console.log(c);
+
+//! 
+// let a = 20 
+// let b = 10
+// let c = a !== b
+// console.log(c);
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
