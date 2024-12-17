@@ -28,14 +28,28 @@
     
 // }
 
-let player = 14
-if (player>=18){
-    console.log("lets play");
+// let player = 14
+// if (player>=18){
+//     console.log("lets play");
+    
+// }else {
+//     console.log("sorry ");
+    
+// }
+
+let Me = 19
+if (Me>=18){
+    console.log("Nikah confirm");
     
 }else {
-    console.log("sorry ");
+    console.log("thodi dair oe intizr karo");
     
 }
+
+
+
+
+
 
 
 
